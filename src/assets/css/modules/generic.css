@@ -1,5 +1,5 @@
 /*
- * "Reset"
+ * "Normalization" and sane defaults
  *
  * Based on https://alligator.io/css/minimal-css-reset/
  */
@@ -28,3 +28,7 @@ img {
   max-width: 100%;
   height: auto;
 } */
+
+@-ms-viewport{
+  width: device-width;
+}

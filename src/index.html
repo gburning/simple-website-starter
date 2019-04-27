@@ -1,13 +1,7 @@
-<!DOCTYPE html>
-<html lang="sv">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="main.css" rel="stylesheet">
-  </head>
-  <body>
+<extends src="layouts/layout-base.html">
+  <block name="title">My Cool Website</block>
+  <block name="content">
     <h1>Hello, World!</h1>
-
-    <script src="main.js" type="text/javascript"></script>
-  </body>
-</html>
+    <include src="modules/module-test.html"></module>
+  </block>
+</extends>
