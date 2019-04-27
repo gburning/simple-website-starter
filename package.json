@@ -9,6 +9,7 @@
   "author": "Gabriel Burning (gl.burning@gmail.com)",
   "license": "ISC",
   "devDependencies": {
+    "autoprefixer": "^9.5.1",
     "parcel": "^1.12.3"
   }
 }
