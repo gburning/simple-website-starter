@@ -10,6 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^9.5.1",
-    "parcel": "^1.12.3"
+    "parcel": "^1.12.3",
+    "posthtml-extend": "^0.3.0",
+    "posthtml-include": "^1.2.0"
   }
 }
