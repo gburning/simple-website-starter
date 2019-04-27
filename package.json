@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "description": "A simple website",
   "scripts": {
-    "start": "./node_modules/.bin/parcel src/index.html"
+    "start": "./node_modules/.bin/parcel src/index.html",
+    "build": "./node_modules/.bin/parcel build src/index.html"
   },
   "author": "Gabriel Burning (gl.burning@gmail.com)",
   "license": "ISC",
