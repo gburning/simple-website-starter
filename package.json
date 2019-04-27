@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "burning-forvaltning",
+  "name": "simple-website-starter",
   "version": "1.0.0",
-  "description": "A simple website",
+  "description": "A simple website starter",
   "scripts": {
     "start": "./node_modules/.bin/parcel src/index.html",
     "build": "./node_modules/.bin/parcel build src/index.html"

@@ -1,4 +1,4 @@
-# Simple Static Website Generator
+# Simple Static Website Starter
 
 This is a very simple static site generator. It makes for a good starting point for quickly building small, simple and performant websites.
 
